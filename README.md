@@ -2,8 +2,8 @@
 
 ```
 npm install
-```
 npm start
+```
 
 Observables básicos
 *Observables
